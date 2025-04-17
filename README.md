@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## 📈 Some Stats
-
 <div align="center">
   <div align="center">
     <a href="https://www.linkedin.com/in/1220atul/" title="Go to Source">
